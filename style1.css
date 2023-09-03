@@ -373,12 +373,15 @@ span{
         margin-left: 0px;
     }
     .content h2{
-        font-size: 15px;
+        font-size: 13px;
     }
     .content p{
         padding: 3px 150px;
     }
     .content a{
         margin-left: -28px;
+    }
+    .footer-text p{
+        font-size: 13px;
     }
 }
