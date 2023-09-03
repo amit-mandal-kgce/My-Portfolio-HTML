@@ -263,7 +263,6 @@ span{
         width: 100%;
         margin: 0;
         padding: 0;
-        overflow: hidden;
     }
     body{
         padding-top: 25rem;
@@ -320,6 +319,9 @@ span{
     }
 }
 @media(max-width:495px){
+    .content h2{
+        font-size: 18px;
+    }
     .project-cont{
         margin-left: 0px;
         padding-left: 15px;
@@ -329,6 +331,9 @@ span{
     }
 }
 @media(max-width:425px){
+    .content h2{
+        font-size: 14px;
+    }
     .project-cont{
         margin-left: 0px;
     }
@@ -346,6 +351,9 @@ span{
     }
 }
 @media(max-width:315px){
+    .content h2{
+        font-size: 12px;
+    }
     .project-cont{
         margin-left: 0px;
     }
