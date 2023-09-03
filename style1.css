@@ -281,7 +281,7 @@ span{
     }
     .project-cont{
         margin-left: 0px;
-        height: 700px;
+        height: auto;
     }
     .content h2{
         font-size: 35px;
