@@ -349,6 +349,22 @@ span{
         margin-left: -22px;
     }
 }
+@media(max-width:404px){
+    .content h2{
+        font-size: 18px;
+    }
+    .footer{
+        height: 100px;
+        padding-top: 5px;
+    }
+    .footer-iconTop{
+        margin-left: 130px;
+    }
+    .footer-text{
+        position: absolute;
+        margin-top: 75px;
+    }
+}
 @media(max-width:315px){
     .content h2{
         font-size: 12px;
